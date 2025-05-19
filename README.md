@@ -1,2 +1,2 @@
 # SUPERSTORE-SQL-ANALYSIS
-SQL project analyzing Superstore dataset to uncover key insights on profitability, regional performance, and customer segments. Includes visualizations and actionable recommendations.
+This SQL based project analyzes the Superstore dataset to uncover insights on product profitability, regional performance, and customer segmentation. By using SQL queries to extract key trends, I provide data-backed recommendations for optimizing sales strategies and business growth.
