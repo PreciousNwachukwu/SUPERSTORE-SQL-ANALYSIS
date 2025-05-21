@@ -68,7 +68,7 @@ ORDER BY Total_profit DESC
 ```
 **Visual Insight:**  
 
-![](https://github.com/PreciousNwachukwu/SUPERSTORE-SQL-ANALYSIS/blob/main/top_10_profitable_products.jpg)
+![](https://github.com/PreciousNwachukwu/SUPERSTORE-SQL-ANALYSIS/blob/main/top_10_profitable_products.jpg?raw=true)
 
 
 **Result Table:**
@@ -104,7 +104,6 @@ GROUP BY Region
 ORDER BY Total_profit DESC, Total_sales DESC
 ```
 **Visual Insight:**    
-
 ![](https://github.com/PreciousNwachukwu/SUPERSTORE-SQL-ANALYSIS/blob/main/top_regions_profit_sales.jpg)
 
 
