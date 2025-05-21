@@ -66,9 +66,8 @@ FROM Superstore_dataset
 GROUP BY Product_name
 ORDER BY Total_profit DESC
 ```
-**Visual Insight:**  
-
-![](https://github.com/PreciousNwachukwu/SUPERSTORE-SQL-ANALYSIS/blob/main/top_10_profitable_products.jpg?raw=true)
+**Visual Insight:**
+![Top 10 Profitable Products](https://github.com/PreciousNwachukwu/SUPERSTORE-SQL-ANALYSIS/blob/main/top_10_profitable_products.jpg?raw=true)
 
 
 **Result Table:**
@@ -103,8 +102,8 @@ FROM Superstore_dataset
 GROUP BY Region
 ORDER BY Total_profit DESC, Total_sales DESC
 ```
-**Visual Insight:**    
-![](https://github.com/PreciousNwachukwu/SUPERSTORE-SQL-ANALYSIS/blob/main/top_regions_profit_sales.jpg)
+**Visual Insight:**
+![Top Regions Profit Sales](https://github.com/PreciousNwachukwu/SUPERSTORE-SQL-ANALYSIS/blob/main/top_regions_profit_sales.jpg?raw=true)
 
 
 **Result Table:**
@@ -131,10 +130,8 @@ FROM Superstore_dataset
 GROUP BY Segment
 ORDER BY Total_profit DESC
 ```
-**Visual Insight:**  
-
-![](https://github.com/PreciousNwachukwu/SUPERSTORE-SQL-ANALYSIS/blob/main/most_profitable_customer_segments.jpg)
-
+**Visual Insight:**
+![Most Profitable Customer Segments](https://github.com/PreciousNwachukwu/SUPERSTORE-SQL-ANALYSIS/blob/main/most_profitable_customer_segments.jpg?raw=true)
 
 **Result Table:**
 
